@@ -15,8 +15,14 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cheerio-httpcli": "^0.8.3",
+    "iconv-lite": "^0.6.3",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.5.5"
+    "rxjs": "^7.5.5",
+    "sanitize-html": "^2.7.1",
+    "voca": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6",
